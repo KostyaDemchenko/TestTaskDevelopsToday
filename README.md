@@ -1,7 +1,5 @@
 # Car Dealer App
 
-Car Dealer App is a modern web application built with Next.js and TypeScript. It allows users to filter vehicles by make and model year and view the corresponding models on a separate results page. The application is styled with Tailwind CSS and leverages React Select for custom select components, dynamic imports with Suspense, and loading skeletons for a smooth user experience.
-
 ## Features
 
 - **Filter Page**
@@ -26,17 +24,21 @@ Car Dealer App is a modern web application built with Next.js and TypeScript. It
 
 1. **Clone the repository:**
 
-````bash
+```bash
 git clone https://github.com/yourusername/car-dealer-app.git
+```
+
+```bash
 cd car-dealer-app
 ```
 
 **Install the dependencies:**
 
 For npm:
+
 ```bash
 npm install
-````
+```
 
 Or for yarn:
 
